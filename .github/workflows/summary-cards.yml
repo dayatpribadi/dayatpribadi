@@ -1,0 +1,28 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Kalau workflow gagal / statistik kosong, ganti dengan PAT kamu:
+          # GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 7
+          # Hanya buat tema tokyonight (lebih cepat, folder lebih rapi)
+          THEME: "tokyonight"
+          # Animasi bawaan kartu: fade | rise | draw | stagger | load | sequence | tint
+          ANIMATION: "load"
