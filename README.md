@@ -1,10 +1,13 @@
-# 👋 Hi, I'm Abdillah Parameswara
+# 👋 Hey there!
 
 ### Software Developer · SaaS Builder · IT Enthusiast
+
+Welcome to my little corner of GitHub.
 
 I build practical digital solutions with a focus on **simplicity, reliability, and offline-first applications**.
 
 Currently building **Kaanti** — a collection of simple digital products designed to make everyday business and personal activities easier.
+
 
 ---
 
