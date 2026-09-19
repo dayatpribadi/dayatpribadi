@@ -86,11 +86,11 @@ Version Control   → Git · GitHub
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
-<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/3-stats.svg" width="24%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="24%" alt="Most commit language"/>
 
-<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
-<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="24%" alt="Repos per language"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="24%" alt="Productive time"/>
 
 <br/>
 
