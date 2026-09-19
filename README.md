@@ -1,15 +1,3 @@
-# 👋 Hey there!
-
-### Software Developer · SaaS Builder · IT Enthusiast
-
-Welcome to my little corner of GitHub.
-
-I build practical digital solutions with a focus on **simplicity, reliability, and offline-first applications**.
-
-Currently building **Kaanti** — a collection of simple digital products designed to make everyday business and personal activities easier.
-
-<!-- ⚠️ Ganti semua "USERNAME" dengan username GitHub kamu -->
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -22,8 +10,10 @@ Currently building **Kaanti** — a collection of simple digital products design
 <a href="mailto:halo@kaanti.id"><img src="https://img.shields.io/badge/Email-halo@kaanti.id-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://wa.me/6285758854210"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/USERNAME?label=Followers&style=flat-square&color=6366F1&logo=github" alt="Followers"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=dayatpribadi&label=Profile%20Views&color=2DD4BF&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/dayatpribadi?label=Followers&style=flat-square&color=6366F1&logo=github" alt="Followers"/>
 
 </div>
 
@@ -36,12 +26,11 @@ Welcome to my little corner of GitHub.
 I build practical digital solutions with a focus on **simplicity, reliability, and offline-first applications**.
 Currently building **[Kaanti](https://kaanti.id)** — a collection of simple digital products designed to make everyday business and personal activities easier.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header" width="100%" alt="divider"/>
-</div>
+<br/>
 
 ## 🛠️ Technology
 
+<div>
 
 **📱 Mobile Development**
 
@@ -70,13 +59,11 @@ Mobile Apps       → Flutter · Dart
 Web Applications  → Laravel · Next.js · React
 UI Development    → Tailwind CSS
 Database          → MySQL · SQLite
-Caching            → Redis
+Caching           → Redis
 Architecture      → REST API · Offline-first
 Infrastructure    → Linux · Docker · VPS
 Version Control   → Git · GitHub
 ```
-
----
 
 <br/>
 
@@ -93,22 +80,21 @@ Version Control   → Git · GitHub
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&count_private=true&include_all_commits=true&rank_icon=github&title_color=2DD4BF&icon_color=6366F1" height="180" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&langs_count=8&title_color=2DD4BF" height="180" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=14&ring=2DD4BF&fire=6366F1&currStreakLabel=2DD4BF" width="98%" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=00000000&color=2DD4BF&line=6366F1&point=ffffff&area=true&area_color=6366F1&custom_title=Contribution%20Activity" width="98%" alt="Contribution graph"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="98%" alt="Profile details"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language"/>
+
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language"/>
+<img src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dayatpribadi&theme=tokyonight&hide_border=true&border_radius=14&ring=2DD4BF&fire=6366F1&currStreakLabel=2DD4BF" width="98%" alt="GitHub streak"/>
 
 </div>
 
@@ -118,9 +104,9 @@ Version Control   → Git · GitHub
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" width="98%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/dayatpribadi/dayatpribadi/output/github-snake.svg" width="98%"/>
   </picture>
 </div>
 
@@ -154,6 +140,3 @@ Building something useful, one project at a time.
 <p>
   <sub>© Kaanti Gawe Sukses Digital · Building useful things with technology.</sub>
 </p>
-
-
-
