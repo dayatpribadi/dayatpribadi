@@ -45,39 +45,6 @@ Version Control   → Git · GitHub
 
 ---
 
-## 📌 Featured Projects
-
-<a href="https://github.com/Kaanti-Official">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanti-Official&repo=flutter-cafe-pos&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/Kaanti-Official">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaanti-Official&repo=flutter-laundry-pos&theme=transparent&hide_border=true" />
-</a>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=transparent" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=github-compact&hide_border=true&area=true" />
-</p>
-
----
-
 ## 🌱 Currently Building
 
 * 📱 Offline-first Flutter applications
